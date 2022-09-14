@@ -1,0 +1,19 @@
+#title {
+    font-family: fantasy;
+    font-size: 64px;
+}
+
+#subhead {
+    font-family: cursive;
+    font-size: 24px;
+}
+
+.image {
+    height: auto;
+    width: 600px;
+}
+
+body {
+    background-color:lightgreen; 
+    font-family:'Times New Roman', Times, serif;
+}
