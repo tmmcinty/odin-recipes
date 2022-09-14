@@ -1,19 +1,18 @@
-#title {
+body {
+    background-color:lightgreen; 
+}
+
+h1 {
     font-family: fantasy;
     font-size: 64px;
 }
 
-#subhead {
+h3 {
     font-family: cursive;
     font-size: 24px;
 }
 
-.image {
+img {
     height: auto;
     width: 600px;
-}
-
-body {
-    background-color:lightgreen; 
-    font-family:'Times New Roman', Times, serif;
 }
